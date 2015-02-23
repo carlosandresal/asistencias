@@ -1,0 +1,26 @@
+{
+  "name": "asistencias",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/coderhouse/asistencias"
+  },
+  "author": "alejandro.oviedo.g@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coderhouse/asistencias/issues"
+  },
+  "homepage": "https://github.com/coderhouse/asistencias",
+  "dependencies": {
+    "boom": "^2.6.1",
+    "good": "^5.1.2",
+    "good-console": "^4.1.0",
+    "hapi": "^8.2.0",
+    "minimist": "^1.1.0"
+  }
+}
